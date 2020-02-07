@@ -15,7 +15,7 @@ namespace ConsoleApp.Services
 
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:5000/api/");
+                client.BaseAddress = new Uri(URL);
                 //HTTP GET
                 var responseTask = client.GetAsync("helloworld");
                 responseTask.Wait();

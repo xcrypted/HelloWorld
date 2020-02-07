@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\jmcor\\VS Projects\\ConsoleApp\\ConsoleApp.csproj": {}
+    "E:\\jmcor\\HelloWorld\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "E:\\jmcor\\VS Projects\\ConsoleApp\\ConsoleApp.csproj": {
+    "E:\\jmcor\\HelloWorld\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\jmcor\\VS Projects\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "E:\\jmcor\\HelloWorld\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "E:\\jmcor\\VS Projects\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "E:\\jmcor\\HelloWorld\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\jmcor\\.nuget\\packages\\",
-        "outputPath": "E:\\jmcor\\VS Projects\\ConsoleApp\\obj\\",
+        "outputPath": "E:\\jmcor\\HelloWorld\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jmcor\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6293,11 +6293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\jmcor\\VS Projects\\API\\API.csproj",
+      "projectUniqueName": "E:\\jmcor\\HelloWorld\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\jmcor\\VS Projects\\API\\API.csproj",
+      "projectPath": "E:\\jmcor\\HelloWorld\\API\\API.csproj",
       "packagesPath": "C:\\Users\\jmcor\\.nuget\\packages\\",
-      "outputPath": "E:\\jmcor\\VS Projects\\API\\obj\\",
+      "outputPath": "E:\\jmcor\\HelloWorld\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jmcor\\AppData\\Roaming\\NuGet\\NuGet.Config",
