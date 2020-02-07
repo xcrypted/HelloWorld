@@ -22,3 +22,27 @@ E:\jmcor\VS Projects\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcore
 E:\jmcor\VS Projects\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\jmcor\VS Projects\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 E:\jmcor\VS Projects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll.config
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\jmcor\HelloWorld\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\jmcor\HelloWorld\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+E:\jmcor\HelloWorld\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+E:\jmcor\HelloWorld\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+E:\jmcor\HelloWorld\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+E:\jmcor\HelloWorld\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+E:\jmcor\HelloWorld\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
